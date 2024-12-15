@@ -1,6 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on https://github.com/codeprnv/weather_app<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Flutter<br>💬 Ask me about<br>⚡ Fun fact
+- 🔭 I’m currently working on [Weather App](https://github.com/codeprnv/weather_app)
 
+- 🌱 I’m currently learning **Flutter**
+
+- 💬 Ask me about **React,Python,Java**
+
+- 📫 How to reach me **work.pranav.0304@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shadow_03_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codexprnv) 

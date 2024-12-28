@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [Weather App](https://github.com/codeprnv/weather_app)
+- 🔭 Recent Project [Shopping App](https://github.com/codeprnv/shopping_app)
 
 - 🌱 I’m currently learning **Flutter**
 

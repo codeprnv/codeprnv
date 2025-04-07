@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 Recent Project [Shopping App](https://github.com/codeprnv/shopping_app)
+- 🔭 Recent Project [AI Recipe App](https://github.com/codeprnv/Foody)
 
 - 🌱 I’m currently learning **Flutter**
 

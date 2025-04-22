@@ -1,30 +1,83 @@
+<h3 align="center">Hi , I'm Pranav Pradhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Full+Stack+Dev%E2%9C%A8;Exploring+the+logic+behind+learning+systems%F0%9F%A7%A0;Code.+Secure.+Learn.+Repeat%F0%9F%94%81" alt="Typing SVG" /></a>
+</p>
+<p align="center"><img src="https://bit.ly/3S6zN37" width="370" alt="animation.gif"></p>
+<img src="https://bit.ly/3RqwCTR" /> 
+
+
 # 💫 About Me:
-- 🔭 Recent Project [AI Recipe App](https://github.com/codeprnv/Foody)
+<div align="center" style="max-width: 80%; margin-left: auto; margin-right: auto; text-align: justify;">
+  <h4>Aspiring Full-Stack Developer with a strong focus on <strong>React</strong>, <strong>Tailwind CSS</strong>, and <strong>Node.js</strong>, building modern, scalable web applications. Passionate about creating secure systems, I’m always looking for ways to integrate <strong>Cybersecurity</strong> into my projects. Currently diving into <strong>Mobile App Development with Flutter</strong>, eager to grow my skills and expand my expertise in both mobile and web development.<br/> 
+  My goal is to become a versatile full-stack developer, mastering both <strong>web</strong> and <strong>mobile</strong> platforms while continuously learning and innovating.</h4>
+</div>
 
-- 🌱 I’m currently learning **Flutter**
+<img src="https://bit.ly/3RqwCTR" />
 
-- 💬 Ask me about **React,Python,Java**
+# 🧠 My Skills:
 
-- 📫 How to reach me **work.pranav.0304@gmail.com**
+<table align="center" style="border-collapse: collapse; width: 90%; text-align: center;">
+  <tr>
+    <th style="padding: 10px; border: 1px solid #ddd;">Frontend</th>
+    <th style="padding: 10px; border: 1px solid #ddd;">Backend</th>
+    <th style="padding: 10px; border: 1px solid #ddd;">Tools</th>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">
+      <a href="https://react.dev/"><img alt="React" title="React" src="https://react.dev/favicon.ico" height="42"></a><br>
+      <a href="https://tailwindcss.com/"><img alt="Tailwind" title="Tailwind" src="https://tailwindcss.com/favicon.ico" height="42"></a><br>
+      <a href="https://flutter.dev/"><img alt="Flutter" title="Flutter" src="https://img.icons8.com/?size=48&id=pCvIfmctRaY8&format=png&color=000000" height="42"></a><br>
+      <a href="https://www.w3schools.com/Js/"><img alt="Javascript" title="Javascript" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="42"></a><br>
+    </td>
+    <td style="padding: 10px;">
+      <a href="https://nodejs.org/en"><img alt="Nodejs" title="Nodejs" src="https://img.icons8.com/?size=48&id=54087&format=png&color=000000" height="42"></a><br>
+      <a href="https://www.python.org/"><img alt="Python" title="Python" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="42"></a><br>
+      <a href="https://firebase.google.com/"><img alt="Firebase" title="Firebase" src="https://img.icons8.com/?size=100&id=87330&format=png&color=000000" height="42"></a><br>
+      <a href="https://www.mongodb.com/"><img alt="MongoDB" title="MongoDB" src="https://www.mongodb.com/favicon.ico" height="42"></a><br>
+    </td>
+    <td style="padding: 10px;">
+      <a href="https://www.postman.com/"><img alt="Postman" title="Postman" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" height="42"></a><br>
+      <a href="https://git-scm.com/"><img alt="Git" title="Git- Version Control" src="https://git-scm.com/favicon.ico" height="42"></a><br>
+      <a href="https://vercel.com/"><img alt="Vercel" title="Vercel" src="https://vercel.com/favicon.ico" height="42"></a><br>
+      <a href="https://code.visualstudio.com/"><img alt="VS Code" title="VS Code" src="https://code.visualstudio.com/favicon.ico" height="42"></a><br>
+    </td>
+  </tr>
+</table>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prnv._03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codexprnv) 
+<img src="https://bit.ly/3RqwCTR" />
 
-# 💻 Tech Stack:
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+# 📘 My Projects:
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codeprnv&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=codeprnv&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeprnv&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <p style="widht: 100%;" align="center">
+    <a href="https://github.com/codeprnv/Foody"><img align="center" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=codeprnv&repo=Foody&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/codeprnv/movieflix_03"><img align="center" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=codeprnv&repo=movieflix_03&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+  </p>
+  <p align="center">&#8192;</p>
+  <p style="widht: 100%;" align="center">
+    <a href="https://github.com/codeprnv/tastetrace"><img align="center" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=codeprnv&repo=tastetrace&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+  </p>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+<img src="https://bit.ly/3RqwCTR" /> 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=codeprnv&limit=5&theme=ayu-mirage&combine_all_yearly_contributions=true)
+# 📊 Github stats:
 
----
-[![](https://visitcount.itsvg.in/api?id=codeprnv&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="codeprnv's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=codeprnv&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="codeprnv's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeprnv&&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <br/>
+  <a href=""><img alt="codeprnv's Top Contributions" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeprnv&theme=tokyonight" height="192px"/></a><br/>
+  <a href""><img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=codeprnv&theme=react&background=1F222E&ring=7cebf5&fire=2d7de4&currStreakLabel=7cebf5" height="192px"/></a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://bit.ly/3RqwCTR" /> 
+
+# 📞 Let's Connect:
+<p align="center">
+  <a href="https://www.instagram.com/prnv._03"><img src="https://img.icons8.com/?size=48&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram" height="42"/></a>
+  <a href="https://www.linkedin.com/in/codexprnv/"><img src="https://img.icons8.com/?size=48&id=13930&format=png&color=000000" alt="LinkedIn" height="42"/></a>
+  <a href="mailto:work.pranav.0304@gmail.com"><img src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png&color=000000" alt="Gmail" height="42"/></a>
+</p>

@@ -70,7 +70,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="codeprnv's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeprnv&&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <br/>
   <a href=""><img alt="codeprnv's Top Contributions" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeprnv&theme=tokyonight" height="192px"/></a><br/>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=codeprnv&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=codeprnv&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
 <img src="https://bit.ly/3RqwCTR" /> 
